@@ -3,7 +3,7 @@ install.packages("devtools")
 devtools::install_github("haozhu233/kableExtra")
 
 library(kableExtra)
-df <- read.csv("C:\\Users\\david\\Desktop\\Appendix_B.csv")
+df <- read.table("C:\\Users\\david\\Desktop\\Appendix_B.txt","\t", header=TRUE)
 
 colnames(df)[1] <- ""
 df[is.na(df)] <- ""
