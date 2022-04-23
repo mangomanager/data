@@ -4,11 +4,11 @@ This is the top-level repository for data, tables, pictures etc. from all my pap
 
 ### 2022-Luxe Emo-JHTR
 - Appendix A – 
-  [Emotion Frequencies in GoEmotions](/2022-Luxe Emo-JHTR/Appendix_A.png)
+  [Emotion Frequencies in GoEmotions](/2022-Luxe-Emo-JHTR/Appendix_A.png)
 - Appendix B – 
-  [Correlation Table of Topic Probabilities](/2022-Luxe Emo-JHTR/Appendix_B.html)
+  [Correlation Table of Topic Probabilities](/2022-Luxe-Emo-JHTR/Appendix_B.html)
 - Appendix C – 
-  [Output of Ordered Logistic Regression for “Rating Level”](/2022-Luxe Emo-JHTR/Appendix_C.html)
+  [Output of Ordered Logistic Regression for “Rating Level”](/2022-Luxe-Emo-JHTR/Appendix_C.html)
 
 
 For more details feel free to contact Dr. Ma by [Email](mailto:mashihan@zju.edu.cn)
