@@ -11,6 +11,6 @@ This is the top-level repository for data, tables, pictures etc. from all my pap
   [Output of Ordered Logistic Regression for “Rating Level”](/2022-Luxe Emo-JHTR/Appendix_C.html)
 
 
-For more details feel free to contact Dr. Ma by [Email](mashihan@zju.edu.cn)
+For more details feel free to contact Dr. Ma by [Email](mailto:mashihan@zju.edu.cn)
 
 ### ZJU@China
