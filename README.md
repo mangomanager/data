@@ -11,6 +11,8 @@ This is the top-level repository for data, tables, pictures etc. from all my pap
 # Appendix B
 # Appendix C
 
+[This is an external link to genome.gov] (https://www.genome.gov/)
+
 - Bulleted
 - List
 
