@@ -5,19 +5,8 @@ This is the top-level repository for data, tables, pictures etc. from all my pap
 ## Papers
 
 
-### Appendix A - 
-![Image](https://github.com/shihanma/data/blob/main/2022_LuxeEmo_JHTR/Appendix1.png)
+### 2022-Luxe Emo-JHTR
 ### Appendix B
 ### Appendix C
 
 [This is an external link to genome.gov](https://www.genome.gov/)
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
