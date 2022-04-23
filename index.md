@@ -4,7 +4,7 @@ This is the top-level repository for data, tables, pictures etc. from all my pap
 
 ### 2022-Luxe Emo-JHTR
 - Appendix A – 
-  [Emotion Frequencies in GoEmotions](/2022-Luxe Emo-JHTR/Appendix_1.png)
+  [Emotion Frequencies in GoEmotions](/2022-Luxe Emo-JHTR/Appendix_A.png)
 - Appendix B – 
   [Correlation Table of Topic Probabilities](/2022-Luxe Emo-JHTR/Appendix_B.html)
 - Appendix C – 
