@@ -7,7 +7,7 @@ This is the top-level repository for data, tables, pictures etc. from all my pap
 ```markdown
 
 # Appendix A - 
-![Image](https://github.com/shihanma/data/blob/main/2022_LuxeEmo_JHTR/Appendix1.png)
+[Image](https://github.com/shihanma/data/blob/main/2022_LuxeEmo_JHTR/Appendix1.png)
 # Appendix B
 # Appendix C
 
