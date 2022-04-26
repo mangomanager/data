@@ -9,7 +9,8 @@ This is the top-level repository for supplementary data, tables and illustration
   [Correlation Table of Topic Probabilities](/2022-Luxe-Emo-JHTR/Appendix_B.html)
 - Appendix C – 
   [Output of Ordered Logistic Regression for “Rating Level”](/2022-Luxe-Emo-JHTR/Appendix_C.html)
-
+- Appendix D – 
+  [Output of Ordered Probit Regression for “Rating Level”](/2022-Luxe-Emo-JHTR/Appendix_D.html)
 
 For more details feel free to contact Dr. Ma by [Email](mailto:mashihan@zju.edu.cn)
 
