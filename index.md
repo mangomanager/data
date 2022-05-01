@@ -4,11 +4,11 @@ This is the top-level repository for supplementary data, tables and illustration
 
 ### 2021-Over Tourism-JTR
 - Supplement A – 
-  [Review of literature](/2021-Overtourism-JTR/Supplement1_Review_of_literature.pdf)
+  [Review of literature](/2021-Overtourism-JTR/Supplement_1_Review_of_literature.pdf)
 - Supplement B – 
-  [Survey](/2021-Overtourism-JTR/Supplement 2. Survey.pdf)
+  [Survey](/2021-Overtourism-JTR/Supplement_2_Survey.pdf)
 - Supplement C – 
-  [Study results](/2021-Overtourism-JTR/Supplement 3. Study results.pdf)
+  [Study results](/2021-Overtourism-JTR/Supplement_3_Study_results.pdf)
   
 ### 2022-Luxe Emo-JHTR
 - Appendix A – 
