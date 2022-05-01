@@ -4,7 +4,7 @@ This is the top-level repository for supplementary data, tables and illustration
 
 ### 2021-Over Tourism-JTR
 - Supplement A – 
-  [Review of literature](/2021-Overtourism-JTR/Supplement 1. Review of literature.pdf)
+  [Review of literature](/2021-Overtourism-JTR/Supplement1_Review_of_literature.pdf)
 - Supplement B – 
   [Survey](/2021-Overtourism-JTR/Supplement 2. Survey.pdf)
 - Supplement C – 
