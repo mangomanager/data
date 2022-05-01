@@ -11,6 +11,11 @@ This is the top-level repository for supplementary data, tables and illustration
   [Output of Ordered Logistic Regression for “Rating Level”](/2022-Luxe-Emo-JHTR/Appendix_C.html)
 - Appendix D – 
   [Output of Ordered Probit Regression for “Rating Level”](/2022-Luxe-Emo-JHTR/Appendix_D.html)
+  
+### 2022-Good Guest-ATR
+- Visual Abstract - 
+  [What makes a good guest](https://youtu.be/3lRqxB0mNks)
+
 
 For more details feel free to contact Dr. Ma by [Email](mailto:mashihan@zju.edu.cn)
 
