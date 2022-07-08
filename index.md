@@ -13,6 +13,8 @@ This is the top-level repository for supplementary data, tables and illustration
   [Study results](/2021-Overtourism-JTR/Supplement_3_Study_results.pdf)
   
 ### 2022-Luxe Emo-JHTR
+> Wu, L., Yang, W., Gao, Y. (lisa), & **Ma, S. (David)**. (2022). Feeling Luxe: A Topic Modeling × Emotion Detection Analysis of Luxury Hotel Experiences. Journal of Hospitality & Tourism Research, 10963480221103222. https://doi.org/10.1177/10963480221103222.
+
 - Appendix A – 
   [Emotion Frequencies in GoEmotions](/2022-Luxe-Emo-JHTR/Appendix_A.png)
 - Appendix B – 
@@ -23,6 +25,8 @@ This is the top-level repository for supplementary data, tables and illustration
   [Output of Ordered Probit Regression for “Rating Level”](/2022-Luxe-Emo-JHTR/Appendix_D.html)
   
 ### 2022-Good Guest-ATR
+> Xue, L., Leung, X. Y., & **Ma, S. (David)**. (2022). What makes a good “guest”: Evidence from Airbnb hosts’ reviews. Annals Of Tourism Research, 95, 103426. http://dx.doi.org/10.1016/j.annals.2022.103426.
+
 - Visual Abstract - 
   [What makes a good guest](https://youtu.be/3lRqxB0mNks)
 
